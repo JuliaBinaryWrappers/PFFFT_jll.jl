@@ -1,0 +1,160 @@
+[[PFFFT]]
+arch = "aarch64"
+git-tree-sha1 = "f4a1b23a39fd2fcb3745b8925113bfbc46d23a85"
+os = "macos"
+
+    [[PFFFT.download]]
+    sha256 = "3bccaf65d2ac078cbb6255fbb424f2ff37c7c6207e4f09becf9f06df2a895c1e"
+    url = "https://github.com/JuliaBinaryWrappers/PFFFT_jll.jl/releases/download/PFFFT-v1.3.1+0/PFFFT.v1.3.1.aarch64-apple-darwin.tar.gz"
+[[PFFFT]]
+arch = "aarch64"
+git-tree-sha1 = "73837178fbff23343df6d091f2c71ba5c7aec213"
+libc = "glibc"
+os = "linux"
+
+    [[PFFFT.download]]
+    sha256 = "0a0c2758ff494d47a763a7c31e090ba030d3b9ecdacc5f6771669eeb4117ab89"
+    url = "https://github.com/JuliaBinaryWrappers/PFFFT_jll.jl/releases/download/PFFFT-v1.3.1+0/PFFFT.v1.3.1.aarch64-linux-gnu.tar.gz"
+[[PFFFT]]
+arch = "aarch64"
+git-tree-sha1 = "749d7dfa2d51a571bb396ec0a35aab7a8442dbf9"
+libc = "musl"
+os = "linux"
+
+    [[PFFFT.download]]
+    sha256 = "e1193f4f5990fc2bf6b506e68ad8c3c7df64f8dc6cdade77c01b0c7b86c64ba3"
+    url = "https://github.com/JuliaBinaryWrappers/PFFFT_jll.jl/releases/download/PFFFT-v1.3.1+0/PFFFT.v1.3.1.aarch64-linux-musl.tar.gz"
+[[PFFFT]]
+arch = "aarch64"
+git-tree-sha1 = "714e02c483fdd81fa2869288af88f91a28408c46"
+os = "freebsd"
+
+    [[PFFFT.download]]
+    sha256 = "8068133e91b49c9c767be88125016c0180ea3e3298760d248262318544117d9f"
+    url = "https://github.com/JuliaBinaryWrappers/PFFFT_jll.jl/releases/download/PFFFT-v1.3.1+0/PFFFT.v1.3.1.aarch64-unknown-freebsd.tar.gz"
+[[PFFFT]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "8b8f7f4ec6f178af9da4cf1a1c6653884bcbe651"
+libc = "glibc"
+os = "linux"
+
+    [[PFFFT.download]]
+    sha256 = "8bd44c16743f0c41ff62ffe8905b5ece268e18a3a16638110472308a7eb01789"
+    url = "https://github.com/JuliaBinaryWrappers/PFFFT_jll.jl/releases/download/PFFFT-v1.3.1+0/PFFFT.v1.3.1.armv6l-linux-gnueabihf.tar.gz"
+[[PFFFT]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "566e584ddb1af5e368b047e761d8567312a1df90"
+libc = "musl"
+os = "linux"
+
+    [[PFFFT.download]]
+    sha256 = "a27c7d119677b4d5525eb693efc531adc8dbad9d76f2a59959dac12c9ee96642"
+    url = "https://github.com/JuliaBinaryWrappers/PFFFT_jll.jl/releases/download/PFFFT-v1.3.1+0/PFFFT.v1.3.1.armv6l-linux-musleabihf.tar.gz"
+[[PFFFT]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0aaf806de1e86944c6ae8a1bcadeab657186f660"
+libc = "glibc"
+os = "linux"
+
+    [[PFFFT.download]]
+    sha256 = "806d3a11fe5972cbdd4d8708d9f73e0cdc133db898572aff587963fb18191c15"
+    url = "https://github.com/JuliaBinaryWrappers/PFFFT_jll.jl/releases/download/PFFFT-v1.3.1+0/PFFFT.v1.3.1.armv7l-linux-gnueabihf.tar.gz"
+[[PFFFT]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1f09da3822633a1bccfdd1f2476153b652ea876e"
+libc = "musl"
+os = "linux"
+
+    [[PFFFT.download]]
+    sha256 = "8ea60a4bd393edfa8100328c971a74b3ac2ac47c47e58fe1fa1bc9f877882b89"
+    url = "https://github.com/JuliaBinaryWrappers/PFFFT_jll.jl/releases/download/PFFFT-v1.3.1+0/PFFFT.v1.3.1.armv7l-linux-musleabihf.tar.gz"
+[[PFFFT]]
+arch = "i686"
+git-tree-sha1 = "2826500eb145ef4ee680a7736dbb6f735bc13254"
+libc = "glibc"
+os = "linux"
+
+    [[PFFFT.download]]
+    sha256 = "ab365e17125f07e0987d5ec50946de6022aba4725e43b8aafec21a59f3c5c9f5"
+    url = "https://github.com/JuliaBinaryWrappers/PFFFT_jll.jl/releases/download/PFFFT-v1.3.1+0/PFFFT.v1.3.1.i686-linux-gnu.tar.gz"
+[[PFFFT]]
+arch = "i686"
+git-tree-sha1 = "14afe8ae74ba67c6d704ccd64d943a7aa8f2d0da"
+libc = "musl"
+os = "linux"
+
+    [[PFFFT.download]]
+    sha256 = "84d5cbba59606122555e34c0f2d0cde4496a5d7cf74c64295502dcf8d71cf013"
+    url = "https://github.com/JuliaBinaryWrappers/PFFFT_jll.jl/releases/download/PFFFT-v1.3.1+0/PFFFT.v1.3.1.i686-linux-musl.tar.gz"
+[[PFFFT]]
+arch = "i686"
+git-tree-sha1 = "a716cb1a339d2af1258f5c5314ebb66304ff2fa3"
+os = "windows"
+
+    [[PFFFT.download]]
+    sha256 = "68358bdcd5d6e6368bdd5b178af3f1b93cc5abb93e92eb905c8b8f8aeb002173"
+    url = "https://github.com/JuliaBinaryWrappers/PFFFT_jll.jl/releases/download/PFFFT-v1.3.1+0/PFFFT.v1.3.1.i686-w64-mingw32.tar.gz"
+[[PFFFT]]
+arch = "powerpc64le"
+git-tree-sha1 = "12886a7aa9c008028d00f4e128ea7a39e9fa6e89"
+libc = "glibc"
+os = "linux"
+
+    [[PFFFT.download]]
+    sha256 = "17706a1385c6faa13d98b0c0b82ba23dd470c0856fb4ca276ff2699bb069ecee"
+    url = "https://github.com/JuliaBinaryWrappers/PFFFT_jll.jl/releases/download/PFFFT-v1.3.1+0/PFFFT.v1.3.1.powerpc64le-linux-gnu.tar.gz"
+[[PFFFT]]
+arch = "riscv64"
+git-tree-sha1 = "03002cb5c5c205163195aa609c1d71501c420b41"
+libc = "glibc"
+os = "linux"
+
+    [[PFFFT.download]]
+    sha256 = "6f0c51f331b4d7b5a196f4d4642f5ed704838e508ea59f832ca7cc330f45a4ef"
+    url = "https://github.com/JuliaBinaryWrappers/PFFFT_jll.jl/releases/download/PFFFT-v1.3.1+0/PFFFT.v1.3.1.riscv64-linux-gnu.tar.gz"
+[[PFFFT]]
+arch = "x86_64"
+git-tree-sha1 = "18e204fc0524c0121791a72497bebe7b760fe02b"
+os = "macos"
+
+    [[PFFFT.download]]
+    sha256 = "51ef812d3e3433f38c95c5ddd0bf1dc61891624d95ff5d343fec92b771b0c648"
+    url = "https://github.com/JuliaBinaryWrappers/PFFFT_jll.jl/releases/download/PFFFT-v1.3.1+0/PFFFT.v1.3.1.x86_64-apple-darwin.tar.gz"
+[[PFFFT]]
+arch = "x86_64"
+git-tree-sha1 = "cc0b7a20ecde9b72ee5f0c0ad0e765e8639deb2b"
+libc = "glibc"
+os = "linux"
+
+    [[PFFFT.download]]
+    sha256 = "eb0c0f3143624106754fcf64fe91a43a5be20e63567a6d3133a54505a340578a"
+    url = "https://github.com/JuliaBinaryWrappers/PFFFT_jll.jl/releases/download/PFFFT-v1.3.1+0/PFFFT.v1.3.1.x86_64-linux-gnu.tar.gz"
+[[PFFFT]]
+arch = "x86_64"
+git-tree-sha1 = "3f8a16b6387c3d5edb26170ebfef8890b8b57f96"
+libc = "musl"
+os = "linux"
+
+    [[PFFFT.download]]
+    sha256 = "3f0cb18b95cc5c7be1f9be9177c4e7af69468bee411c22bd33bbe8acfa669d3b"
+    url = "https://github.com/JuliaBinaryWrappers/PFFFT_jll.jl/releases/download/PFFFT-v1.3.1+0/PFFFT.v1.3.1.x86_64-linux-musl.tar.gz"
+[[PFFFT]]
+arch = "x86_64"
+git-tree-sha1 = "2ff79ce5041a7fcf8936018b55e6c0000341ee97"
+os = "freebsd"
+
+    [[PFFFT.download]]
+    sha256 = "8ede31cef66ac65285e6eded38ebc3fabf3ab076c143a7ff6be5a28d4e3651f0"
+    url = "https://github.com/JuliaBinaryWrappers/PFFFT_jll.jl/releases/download/PFFFT-v1.3.1+0/PFFFT.v1.3.1.x86_64-unknown-freebsd.tar.gz"
+[[PFFFT]]
+arch = "x86_64"
+git-tree-sha1 = "d53274cfb2105071bade96bb1c6d08c592397b7f"
+os = "windows"
+
+    [[PFFFT.download]]
+    sha256 = "2617a39438518fb90f9e1f76efa666e62adf7ea9e1b0f394e11e9726a557575d"
+    url = "https://github.com/JuliaBinaryWrappers/PFFFT_jll.jl/releases/download/PFFFT-v1.3.1+0/PFFFT.v1.3.1.x86_64-w64-mingw32.tar.gz"
